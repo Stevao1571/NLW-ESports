@@ -18,7 +18,7 @@ Este projeto foi desenvolvido em um treinamento online disponibilizado pela Roke
 # NLW - eSports
 
 ## 📋 Conceito
-![nlw esports banner](././.github/nlw-esports-banner.png)
+<img src="./assets/img/intro.png">
 
 ## 🚀 Tecnologias
 
