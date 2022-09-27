@@ -6,6 +6,9 @@ Este projeto foi desenvolvido em um treinamento online disponibilizado pela Roke
 
 É uma boa fonte de aprendizado, bem como de aprimoramento.
 
+
+<img src="./assets/img/app-preview.jpeg">
+
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
